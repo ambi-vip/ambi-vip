@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Kunshin Roman was born in 1992 and I love Android and also music and technology my favorite companies and firms Xiaomi and Google I also like weather programs, music and notes.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ambi, My Chinese name is 赵帅,  was born in 1998 and I love watching movies and also music and technology my favorite companies and firms Xiaomi and Google I also like weather programs, music and notes.
 <img align="right" alt="GIF" src="https://github.com/sannimichaelse/sannimichaelse/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 
